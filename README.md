@@ -22,36 +22,67 @@
 <h3 align="left">Data Analytics Blogs</h3>
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://python.plainenglish.io/bias-variance-trade-off-in-machine-learning-74b51295689e">Bias-Variance Trade-off in Machine Learning</a>
+
 - <a href="https://python.plainenglish.io/an-introduction-to-machine-learning-for-beginners-41a8918ea964">An Introduction to Machine Learning for Beginners</a>
+
 - <a href="https://python.plainenglish.io/understand-machine-learning-using-python-87b85607e8cc">Understand Machine Learning using Python</a>
+
 - <a href="https://python.plainenglish.io/data-preparation-eda-using-pandas-numpy-matplotlib-and-seaborn-7afcc517154e">Data Preparation-EDA Using Pandas, Numpy, MAatplotlib and Seaborn</a>
+
 - <a href="https://python.plainenglish.io/how-to-deal-with-missing-values-in-a-dataset-using-python-libraries-numpy-and-pandas-25ef5a3a7cc7">How to Deal with Missing Values in a Dataset Using Python Libraries- NumPy and Pandas</a>
+
 - <a href="https://python.plainenglish.io/introduction-to-python-machine-learning-and-dealing-with-nan-values-in-a-data-set-using-pandas-bc185fa7aa5">Introduction to Python Machine Learning and Dealing with NaN Values in a Data Set using Pandas</a>
+
 - <a href="https://python.plainenglish.io/understand-nested-loops-with-examples-2a9abbdebdfc">Understand Nested Loops with Examples</a>
+
 - <a href="https://python.plainenglish.io/lets-understand-important-pandas-functions-for-data-science-52f42160b8e8">Let’s Understand the Important Pandas Functions for Data Science</a>
+
 - <a href="https://python.plainenglish.io/understanding-pandas-data-structures-e47843f904a5">An Introduction to Data Structures in Pandas</a>
+
 - <a href="https://python.plainenglish.io/understanding-numpy-subset-selection-and-matrix-level-arithmetic-operations-3f6227c14864">Understand NumPy Subset-Selection and Matrix-Level Arithmetic Operations</a>
+
 - <a href="https://python.plainenglish.io/understanding-filter-map-and-reduce-functions-in-python-3f065206f6e8">Understand Filter(), Map(), and Reduce() Functions in Python</a>
+
 - <a href="https://python.plainenglish.io/understanding-recursion-and-memoization-in-python-programming-5dfb45311787">Understand Recursion and Memoization in Python Programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/basic-numpy-practice-c1abfab34d71">Basic Numpy Practice</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-numpy-array-selection-ddef9320e9cc">Understanding Numpy Array Selection</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-numpy-array-creation-techniques-1196fa67f3e4">Understanding Numpy Array Creation Techniques</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-numpy-methods-and-functions-cd25036a3a73">Understanding Numpy: Methods and Functions</a>
+
 - <a href="https://python.plainenglish.io/understanding-web-scraping-3-b57827a37401">Web Scraping- Extracting data from Wikipedia</a>
+
 - <a href="https://python.plainenglish.io/understanding-web-scraping-1-96c6da98a5fc">An introduction to Web Scraping for Beginners</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-functions-in-python-programming-cfabd221fcfa">Understanding Functions in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-operators-of-python-programming-54893af1eff8">Understanding Operators in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-modules-in-python-programming-d8f907ca935">Understanding Module's in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-list-comprehensions-in-python-programming-d8ed8ea5fe8a">Understanding List comprehensions in Python Programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/learning-if-if-else-if-elif-else-nested-if-7b28764ec8e9">Learning If, If Else, If Elif Else, Nested If</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/practicing-iterative-statements-in-python-programming-986e187cd172">Practicing Iterative Statements in Python Programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/practicing-sequential-statements-5a6d20ea780c">Practicing Sequential Statements in Python Programming Language</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/datatypes-of-python-programming-56cf4fdd5874">Datatypes in Python programming flowchart</a>
+
 - <a href="https://python.plainenglish.io/understanding-strings-of-python-programming-59c61e2b19d1">Understanding String datatype in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-tuple-datatype-in-python-programming-d8d44617c86d">Understanding Tuple datatype in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-tuple-datatype-in-python-programming-d8d44617c86d">Understanding List datatype in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-dictionary-datatype-of-python-programming-65021a7f740b">Understanding Dictionary datatype in Python programming</a>
+
 - <a href="https://medium.com/@rahulkotecha2000/understanding-sets-datatype-of-python-programming-d8fe633aba07">Understanding Set datatype in Python programming</a>
+
 - <a href="https://python.plainenglish.io/web-scraping-imdb-top-rated-indian-movies-b73c0f1c39ad">Web Scraping IMDb Top-Rated Indian Movies</a>
 
 <!-- BLOG-POST-LIST:END -->
