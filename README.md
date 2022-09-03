@@ -18,7 +18,8 @@
 
 <h3 align="left">Data Analytics Blogs</h3>
 <!-- BLOG-POST-LIST:START -->
-[Bias-Variance Trade-off in Machine Learning](https://python.plainenglish.io/bias-variance-trade-off-in-machine-learning-74b51295689e)
+<a href="https://python.plainenglish.io/bias-variance-trade-off-in-machine-learning-74b51295689e">Bias-Variance Trade-off in Machine Learning</a>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
