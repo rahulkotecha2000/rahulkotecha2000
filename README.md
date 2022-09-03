@@ -16,8 +16,9 @@
 
 - ⚡ Fun fact **I like to watch F1, Cricket and probably any other sport in my free time.**
 
-### Blogs posts
+<h3 align="left">Data Analytics Blogs</h3>
 <!-- BLOG-POST-LIST:START -->
+[Bias-Variance Trade-off in Machine Learning](https://python.plainenglish.io/bias-variance-trade-off-in-machine-learning-74b51295689e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
