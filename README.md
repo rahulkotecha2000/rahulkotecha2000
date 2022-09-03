@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kotecha !</h1>
+<h1 align="center" font color="RED">Hi 👋, I'm Rahul Kotecha !</h1>
 <h3 align="center">Graduate Student at Stevens Institute of Technology for MSIS course</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8-qEeIpxMaSbzaW4-okN06Hmetq3OMor8g&usqp=CAU">
 
