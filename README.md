@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rahulkotecha2000](https://medium.com/@rahulkotecha2000)
 
-- 💬 Ask me about **Python libraries-Numpy, Pandas, Matplotlib, Seaborn; Machine Learning, SQL, R programming**
+- 💬 Ask me about **Python libraries-Numpy, Pandas, Matplotlib, Seaborn; Machine Learning, Deep Learning, SQL, R programming, Tableau, Power BI, Domo**
 
 - 📫 How to reach me **rahulkotecha2000@yahoo.com**
 
