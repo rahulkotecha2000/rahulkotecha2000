@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Management, Process Innovation and Management, Data Analytics and Machine Learning, Financial Decision Making**
 
-- 👨‍💻 All of my projects are available at [github.com/rahulkotecha2000](github.com/rahulkotecha2000)
+- 👨‍💻 All of my projects are available at [https://github.com/rahulkotecha2000?tab=repositories](github.com/rahulkotecha2000)
 
 - 📝 I regularly write articles on [https://medium.com/@rahulkotecha2000](https://medium.com/@rahulkotecha2000)
 
