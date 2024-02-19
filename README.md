@@ -21,6 +21,8 @@
 
 <h3 align="left">Data Analytics Blogs</h3>
 <!-- BLOG-POST-LIST:START -->
+- <a href="https://medium.com/python-in-plain-english/dealing-with-missing-data-mice-d2dd62fec9c0">Dealing with Missing Data: Multivariate Imputations by Chained Equations</a>
+
 - <a href="https://python.plainenglish.io/bias-variance-trade-off-in-machine-learning-74b51295689e">Bias-Variance Trade-off in Machine Learning</a>
 
 - <a href="https://python.plainenglish.io/an-introduction-to-machine-learning-for-beginners-41a8918ea964">An Introduction to Machine Learning for Beginners</a>
