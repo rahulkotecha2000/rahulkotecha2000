@@ -2,7 +2,7 @@
 <h3 align="center">Currently doing something new, will update you on it SOON!</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8-qEeIpxMaSbzaW4-okN06Hmetq3OMor8g&usqp=CAU">
 
-- 🌱 Masters in Information Systems with a Graduate Certification in Business Intelligence and Analytics from @Stevens Institute of Technology, NJ, USA
+- 🌱 Masters in Information Systems Graduate with a Graduate Certification in Business Intelligence and Analytics from @Stevens Institute of Technology, NJ, USA "Batch of 2024"
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulkotecha2000?tab=repositories](github.com/rahulkotecha2000)
 
