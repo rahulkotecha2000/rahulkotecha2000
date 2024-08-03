@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rahulkotecha2000](https://medium.com/@rahulkotecha2000)
 
-- 💬 Ask me about **Python libraries-Numpy, Pandas, Matplotlib, Seaborn; Machine Learning, Deep Learning, SQL, R programming, Tableau, Power BI, Domo**
+- 💬 Ask me about **Technology and Future!!**
 
-- 📫 How to reach me **rahulkotecha2000@yahoo.com**
+- 📫 How to reach me **rkotecha2800@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/rahul-kotecha2000](www.linkedin.com/in/rahul-kotecha2000)
 
